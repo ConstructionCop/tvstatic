@@ -6,4 +6,4 @@ let obj1 ={
 
 let wave1 = new wavy('canvas', obj1);
 
-wave1.animate60();
+wave1.animate30();
