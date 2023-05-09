@@ -1,6 +1,6 @@
 let obj1 ={
     stroke: 5,
-    phase: 60
+    phase: 30
 }
 
 
